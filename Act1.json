@@ -1,419 +1,419 @@
 [
   {
-    "Periodo": "2016-Enero",
+    "Periodo": "2016-01-01",
     "Horas_Uso": "2.803,50",
     "Media_Disponibilidad": "2.052,41",
     "Usos_Abo_Anual": "6.649,61",
     "Usos_Abo_Casual": "127,35"
   },
   {
-    "Periodo": "2016-Febrero",
+    "Periodo": "2016-02-01",
     "Horas_Uso": "2.748,44",
     "Media_Disponibilidad": "2.148,76",
     "Usos_Abo_Anual": "7.168,90",
     "Usos_Abo_Casual": "102,86"
   },
   {
-    "Periodo": "2016-Marzo",
+    "Periodo": "2016-03-01",
     "Horas_Uso": "2.586,92",
     "Media_Disponibilidad": "2.143,79",
     "Usos_Abo_Anual": "7.107,39",
     "Usos_Abo_Casual": "170,03"
   },
   {
-    "Periodo": "2016-Abril",
+    "Periodo": "2016-04-01",
     "Horas_Uso": "2.587,24",
     "Media_Disponibilidad": "2.073,24",
     "Usos_Abo_Anual": "7.955,80",
-    "Usos_Abo_Casual": "184,00"
+    "Usos_Abo_Casual": 184
   },
   {
-    "Periodo": "2016-Mayo",
+    "Periodo": "2016-05-01",
     "Horas_Uso": "2.960,66",
     "Media_Disponibilidad": "2.036,04",
     "Usos_Abo_Anual": "8.923,74",
-    "Usos_Abo_Casual": "255,00"
+    "Usos_Abo_Casual": 255
   },
   {
-    "Periodo": "2016-Junio",
+    "Periodo": "2016-06-01",
     "Horas_Uso": "3.696,87",
     "Media_Disponibilidad": "1.999,89",
     "Usos_Abo_Anual": "11.228,63",
-    "Usos_Abo_Casual": "235,90"
+    "Usos_Abo_Casual": "235,9"
   },
   {
-    "Periodo": "2016-Julio",
+    "Periodo": "2016-07-01",
     "Horas_Uso": "3.346,76",
     "Media_Disponibilidad": "1.943,74",
     "Usos_Abo_Anual": "9.815,16",
     "Usos_Abo_Casual": "216,06"
   },
   {
-    "Periodo": "2016-Agosto",
+    "Periodo": "2016-08-01",
     "Horas_Uso": "2.825,25",
     "Media_Disponibilidad": "2.029,04",
     "Usos_Abo_Anual": "7.630,26",
-    "Usos_Abo_Casual": "236,90"
+    "Usos_Abo_Casual": "236,9"
   },
   {
-    "Periodo": "2016-Septiembre",
+    "Periodo": "2016-09-01",
     "Horas_Uso": "3.142,25",
     "Media_Disponibilidad": "1.816,53",
     "Usos_Abo_Anual": "8.768,30",
     "Usos_Abo_Casual": "151,03"
   },
   {
-    "Periodo": "2016-Octubre",
+    "Periodo": "2016-10-01",
     "Horas_Uso": "2.163,98",
     "Media_Disponibilidad": "1.415,67",
     "Usos_Abo_Anual": "5.708,94",
     "Usos_Abo_Casual": "113,58"
   },
   {
-    "Periodo": "2016-Noviembre",
+    "Periodo": "2016-11-01",
     "Horas_Uso": "1.692,15",
     "Media_Disponibilidad": "1.177,98",
     "Usos_Abo_Anual": "4.463,43",
-    "Usos_Abo_Casual": "55,20"
+    "Usos_Abo_Casual": "55,2"
   },
   {
-    "Periodo": "2016-Diciembre",
+    "Periodo": "2016-12-01",
     "Horas_Uso": "1.837,25",
     "Media_Disponibilidad": "1.483,98",
     "Usos_Abo_Anual": "4.915,68",
     "Usos_Abo_Casual": "97,87"
   },
   {
-    "Periodo": "2017-Enero",
+    "Periodo": "2017-01-01",
     "Horas_Uso": "1.593,76",
     "Media_Disponibilidad": "1.640,41",
     "Usos_Abo_Anual": "5.064,68",
     "Usos_Abo_Casual": "83,81"
   },
   {
-    "Periodo": "2017-Febrero",
+    "Periodo": "2017-02-01",
     "Horas_Uso": "1.787,13",
     "Media_Disponibilidad": "1.769,69",
     "Usos_Abo_Anual": "6.098,18",
     "Usos_Abo_Casual": "109,71"
   },
   {
-    "Periodo": "2017-Marzo",
+    "Periodo": "2017-03-01",
     "Horas_Uso": "2.220,28",
     "Media_Disponibilidad": "1.725,64",
     "Usos_Abo_Anual": "7.388,39",
     "Usos_Abo_Casual": "160,68"
   },
   {
-    "Periodo": "2017-Abril",
+    "Periodo": "2017-04-01",
     "Horas_Uso": "2.432,63",
     "Media_Disponibilidad": "1.610,89",
     "Usos_Abo_Anual": "7.526,53",
-    "Usos_Abo_Casual": "268,90"
+    "Usos_Abo_Casual": "268,9"
   },
   {
-    "Periodo": "2017-Mayo",
+    "Periodo": "2017-05-01",
     "Horas_Uso": "2.959,31",
     "Media_Disponibilidad": "1.826,91",
     "Usos_Abo_Anual": "9.710,39",
     "Usos_Abo_Casual": "269,42"
   },
   {
-    "Periodo": "2017-Junio",
+    "Periodo": "2017-06-01",
     "Horas_Uso": "3.344,95",
     "Media_Disponibilidad": "1.803,26",
     "Usos_Abo_Anual": "11.552,07",
     "Usos_Abo_Casual": "213,37"
   },
   {
-    "Periodo": "2017-Julio",
+    "Periodo": "2017-07-01",
     "Horas_Uso": "2.936,56",
     "Media_Disponibilidad": "1.877,39",
     "Usos_Abo_Anual": "10.085,10",
     "Usos_Abo_Casual": "228,71"
   },
   {
-    "Periodo": "2017-Agosto",
+    "Periodo": "2017-08-01",
     "Horas_Uso": "2.349,10",
     "Media_Disponibilidad": "1.927,50",
     "Usos_Abo_Anual": "8.088,42",
     "Usos_Abo_Casual": "250,81"
   },
   {
-    "Periodo": "2017-Septiembre",
+    "Periodo": "2017-09-01",
     "Horas_Uso": "3.620,42",
     "Media_Disponibilidad": "1.871,14",
     "Usos_Abo_Anual": "12.331,33",
     "Usos_Abo_Casual": "280,97"
   },
   {
-    "Periodo": "2017-Octubre",
+    "Periodo": "2017-10-01",
     "Horas_Uso": "3.517,97",
     "Media_Disponibilidad": "1.846,49",
     "Usos_Abo_Anual": "12.098,81",
     "Usos_Abo_Casual": "291,13"
   },
   {
-    "Periodo": "2017-Noviembre",
+    "Periodo": "2017-11-01",
     "Horas_Uso": "2.834,86",
     "Media_Disponibilidad": "1.933,72",
     "Usos_Abo_Anual": "10.252,23",
     "Usos_Abo_Casual": "182,23"
   },
   {
-    "Periodo": "2017-Diciembre",
+    "Periodo": "2017-12-01",
     "Horas_Uso": "2.077,38",
     "Media_Disponibilidad": "1.907,59",
     "Usos_Abo_Anual": "7.381,61",
-    "Usos_Abo_Casual": "130,00"
+    "Usos_Abo_Casual": 130
   },
   {
-    "Periodo": "2018-Enero",
+    "Periodo": "2018-01-01",
     "Horas_Uso": "2.055,64",
     "Media_Disponibilidad": "1.961,66",
     "Usos_Abo_Anual": "7.566,68",
     "Usos_Abo_Casual": "97,45"
   },
   {
-    "Periodo": "2018-Febrero",
+    "Periodo": "2018-02-01",
     "Horas_Uso": "2.039,10",
     "Media_Disponibilidad": "1.996,91",
     "Usos_Abo_Anual": "7.539,46",
     "Usos_Abo_Casual": "112,25"
   },
   {
-    "Periodo": "2018-Marzo",
+    "Periodo": "2018-03-01",
     "Horas_Uso": "1.750,78",
     "Media_Disponibilidad": "1.957,84",
     "Usos_Abo_Anual": "6.264,84",
     "Usos_Abo_Casual": "109,71"
   },
   {
-    "Periodo": "2018-Abril",
+    "Periodo": "2018-04-01",
     "Horas_Uso": "2.547,40",
     "Media_Disponibilidad": "1.960,08",
     "Usos_Abo_Anual": "8.989,63",
     "Usos_Abo_Casual": "197,07"
   },
   {
-    "Periodo": "2018-Mayo",
+    "Periodo": "2018-05-01",
     "Horas_Uso": "3.049,53",
     "Media_Disponibilidad": "1.878,94",
     "Usos_Abo_Anual": "10.418,26",
     "Usos_Abo_Casual": "277,52"
   },
   {
-    "Periodo": "2018-Junio",
+    "Periodo": "2018-06-01",
     "Horas_Uso": "3.277,18",
     "Media_Disponibilidad": "1.870,25",
     "Usos_Abo_Anual": "11.716,67",
     "Usos_Abo_Casual": "233,53"
   },
   {
-    "Periodo": "2018-Julio",
+    "Periodo": "2018-07-01",
     "Horas_Uso": "3.324,68",
     "Media_Disponibilidad": "1.817,64",
     "Usos_Abo_Anual": "11.312,19",
     "Usos_Abo_Casual": "246,45"
   },
   {
-    "Periodo": "2018-Agosto",
+    "Periodo": "2018-08-01",
     "Horas_Uso": "2.723,34",
     "Media_Disponibilidad": "1.922,70",
     "Usos_Abo_Anual": "9.181,48",
-    "Usos_Abo_Casual": "257,00"
+    "Usos_Abo_Casual": 257
   },
   {
-    "Periodo": "2018-Septiembre",
+    "Periodo": "2018-09-01",
     "Horas_Uso": "4.135,32",
     "Media_Disponibilidad": "1.858,04",
     "Usos_Abo_Anual": "13.615,20",
     "Usos_Abo_Casual": "247,47"
   },
   {
-    "Periodo": "2018-Octubre",
+    "Periodo": "2018-10-01",
     "Horas_Uso": "3.330,59",
     "Media_Disponibilidad": "1.865,26",
     "Usos_Abo_Anual": "11.382,48",
     "Usos_Abo_Casual": "148,55"
   },
   {
-    "Periodo": "2018-Noviembre",
+    "Periodo": "2018-11-01",
     "Horas_Uso": "2.756,39",
     "Media_Disponibilidad": "1.986,40",
     "Usos_Abo_Anual": "9.225,47",
-    "Usos_Abo_Casual": "101,10"
+    "Usos_Abo_Casual": "101,1"
   },
   {
-    "Periodo": "2018-Diciembre",
+    "Periodo": "2018-12-01",
     "Horas_Uso": "2.500,00",
     "Media_Disponibilidad": "2.012,58",
     "Usos_Abo_Anual": "8.093,32",
     "Usos_Abo_Casual": "125,23"
   },
   {
-    "Periodo": "2019-Enero",
+    "Periodo": "2019-01-01",
     "Horas_Uso": "2.324,02",
     "Media_Disponibilidad": "2.004,79",
     "Usos_Abo_Anual": "8.277,29",
     "Usos_Abo_Casual": "88,87"
   },
   {
-    "Periodo": "2019-Febrero",
+    "Periodo": "2019-02-01",
     "Horas_Uso": "2.879,17",
     "Media_Disponibilidad": "2.028,00",
     "Usos_Abo_Anual": "10.024,86",
     "Usos_Abo_Casual": "141,86"
   },
   {
-    "Periodo": "2019-Marzo",
+    "Periodo": "2019-03-01",
     "Horas_Uso": "3.119,38",
     "Media_Disponibilidad": "2.029,62",
     "Usos_Abo_Anual": "10.638,13",
     "Usos_Abo_Casual": "158,74"
   },
   {
-    "Periodo": "2019-Abril",
+    "Periodo": "2019-04-01",
     "Horas_Uso": "2.608,38",
     "Media_Disponibilidad": "2.026,96",
     "Usos_Abo_Anual": "8.862,10",
     "Usos_Abo_Casual": "135,93"
   },
   {
-    "Periodo": "2019-Mayo",
+    "Periodo": "2019-05-01",
     "Horas_Uso": "3.573,85",
     "Media_Disponibilidad": "2.031,87",
     "Usos_Abo_Anual": "11.944,16",
     "Usos_Abo_Casual": "216,74"
   },
   {
-    "Periodo": "2019-Junio",
+    "Periodo": "2019-06-01",
     "Horas_Uso": "3.727,19",
     "Media_Disponibilidad": "2.033,71",
     "Usos_Abo_Anual": "12.646,30",
-    "Usos_Abo_Casual": "174,30"
+    "Usos_Abo_Casual": "174,3"
   },
   {
-    "Periodo": "2019-Julio",
+    "Periodo": "2019-07-01",
     "Horas_Uso": "3.315,56",
     "Media_Disponibilidad": "1.801,31",
     "Usos_Abo_Anual": "11.738,52",
     "Usos_Abo_Casual": "128,13"
   },
   {
-    "Periodo": "2019-Agosto",
+    "Periodo": "2019-08-01",
     "Horas_Uso": "2.565,65",
     "Media_Disponibilidad": "1.893,82",
     "Usos_Abo_Anual": "8.616,87",
     "Usos_Abo_Casual": "136,55"
   },
   {
-    "Periodo": "2019-Septiembre",
+    "Periodo": "2019-09-01",
     "Horas_Uso": "3.998,65",
     "Media_Disponibilidad": "2.160,20",
     "Usos_Abo_Anual": "13.314,20",
     "Usos_Abo_Casual": "136,93"
   },
   {
-    "Periodo": "2019-Octubre",
+    "Periodo": "2019-10-01",
     "Horas_Uso": "3.959,46",
     "Media_Disponibilidad": "2.164,82",
     "Usos_Abo_Anual": "13.355,10",
     "Usos_Abo_Casual": "142,65"
   },
   {
-    "Periodo": "2019-Noviembre",
+    "Periodo": "2019-11-01",
     "Horas_Uso": "2.962,25",
     "Media_Disponibilidad": "2.202,78",
     "Usos_Abo_Anual": "10.059,17",
     "Usos_Abo_Casual": "81,97"
   },
   {
-    "Periodo": "2019-Diciembre",
+    "Periodo": "2019-12-01",
     "Horas_Uso": "2.305,97",
     "Media_Disponibilidad": "2.174,19",
     "Usos_Abo_Anual": "7.090,13",
     "Usos_Abo_Casual": "21,06"
   },
   {
-    "Periodo": "2020-Enero",
+    "Periodo": "2020-01-01",
     "Horas_Uso": "2.335,69",
     "Media_Disponibilidad": "2.379,53",
     "Usos_Abo_Anual": "8.156,10",
     "Usos_Abo_Casual": "21,71"
   },
   {
-    "Periodo": "2020-Febrero",
+    "Periodo": "2020-02-01",
     "Horas_Uso": "3.186,07",
     "Media_Disponibilidad": "2.487,06",
     "Usos_Abo_Anual": "10.948,17",
     "Usos_Abo_Casual": "89,69"
   },
   {
-    "Periodo": "2020-Marzo",
+    "Periodo": "2020-03-01",
     "Horas_Uso": "1.313,15",
     "Media_Disponibilidad": "1.205,69",
     "Usos_Abo_Anual": "4.406,16",
     "Usos_Abo_Casual": "32,74"
   },
   {
-    "Periodo": "2020-Abril",
+    "Periodo": "2020-04-01",
     "Horas_Uso": "112,11",
     "Media_Disponibilidad": "670,21",
     "Usos_Abo_Anual": "281,53",
     "Usos_Abo_Casual": "0,53"
   },
   {
-    "Periodo": "2020-Mayo",
+    "Periodo": "2020-05-01",
     "Horas_Uso": "4.130,13",
     "Media_Disponibilidad": "2.495,59",
     "Usos_Abo_Anual": "7.658,74",
     "Usos_Abo_Casual": "219,13"
   },
   {
-    "Periodo": "2020-Junio",
+    "Periodo": "2020-06-01",
     "Horas_Uso": "5.128,70",
     "Media_Disponibilidad": "2.443,49",
     "Usos_Abo_Anual": "14.381,13",
     "Usos_Abo_Casual": "106,93"
   },
   {
-    "Periodo": "2020-Julio",
+    "Periodo": "2020-07-01",
     "Horas_Uso": "4.237,40",
     "Media_Disponibilidad": "2.300,62",
     "Usos_Abo_Anual": "13.358,48",
     "Usos_Abo_Casual": "80,48"
   },
   {
-    "Periodo": "2020-Agosto",
+    "Periodo": "2020-08-01",
     "Horas_Uso": "3.089,97",
     "Media_Disponibilidad": "2.230,64",
     "Usos_Abo_Anual": "9.283,71",
-    "Usos_Abo_Casual": "87,90"
+    "Usos_Abo_Casual": "87,9"
   },
   {
-    "Periodo": "2020-Septiembre",
+    "Periodo": "2020-09-01",
     "Horas_Uso": "4.574,39",
     "Media_Disponibilidad": "2.183,60",
     "Usos_Abo_Anual": "14.204,90",
-    "Usos_Abo_Casual": "55,70"
+    "Usos_Abo_Casual": "55,7"
   },
   {
-    "Periodo": "2020-Octubre",
+    "Periodo": "2020-10-01",
     "Horas_Uso": "4.052,35",
     "Media_Disponibilidad": "2.221,92",
     "Usos_Abo_Anual": "12.662,55",
     "Usos_Abo_Casual": "37,81"
   },
   {
-    "Periodo": "2020-Noviembre",
+    "Periodo": "2020-11-01",
     "Horas_Uso": "3.237,90",
     "Media_Disponibilidad": "2.152,10",
     "Usos_Abo_Anual": "10.073,27",
     "Usos_Abo_Casual": "20,87"
   },
   {
-    "Periodo": "2020-Diciembre",
+    "Periodo": "2020-12-01",
     "Horas_Uso": "2.875,89",
     "Media_Disponibilidad": "2.564,80",
     "Usos_Abo_Anual": "8.452,94",
